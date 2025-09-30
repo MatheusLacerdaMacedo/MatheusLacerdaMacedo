@@ -56,10 +56,6 @@
 
 ---
 
-<div align="center">
-  <br>
-  <p><b>Visitor Count</b></p>  
-  <p><img src="https://profile-counter.glitch.me/{MatheusLacerdaMacedo}/count.svg" /></p> 
-</div>
+
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=DC143C&height=120&section=footer"/>
