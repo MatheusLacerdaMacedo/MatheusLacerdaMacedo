@@ -3,7 +3,7 @@
 <!-- TYPING -->
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=DC143C&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+Name+is+Matheus+Lacerda+Macedo;I+study+Computer+Science+at+UNA;I'm+21+Years+Old;I'm+from+Belo+Horizonte,+MG+:%29)](https://git.io/typing-svg)
 
-
+[![GitHub Streak](https://streak-stats.demolab.com/?user=MatheusLacerdaMacedo1&theme=dark)](https://git.io/streak-stats)
 
 <!-- ACTIVITY GRAPH -->
 [![Matheus's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=MatheusLacerdaMacedo&bg_color=000000&color=DC143C&line=07e9a5&point=0a855c&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
@@ -52,6 +52,9 @@
 
 ---
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=MatheusLacerdaMacedo&base=300&color=1E90FF&style=for-the-badge" />
+</p>
 
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=DC143C&height=120&section=footer"/>
